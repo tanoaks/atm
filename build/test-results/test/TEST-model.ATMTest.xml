@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.ATMTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-18T23:40:19" hostname="DESKTOP-E3RP5MO" time="0.006">
+  <properties/>
+  <testcase name="testTestDispense4" classname="model.ATMTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
